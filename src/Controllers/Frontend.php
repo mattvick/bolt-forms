@@ -13,7 +13,7 @@ use Twig_Error_Loader;
 /**
  * Core API functions for MahangoForms
  *
- * Copyright (C) 2014 Matthew Vickery
+ * Copyright (C) 2014
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -28,8 +28,9 @@ use Twig_Error_Loader;
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  *
+ * @author    Gawain Lynch <gawain.lynch@gmail.com>
  * @author    Matthew Vickery <vickery.matthew@gmail.com>
- * @copyright Copyright (c) 2014, Matthew Vickery
+ * @copyright Copyright (c) 2014
  * @license   http://opensource.org/licenses/GPL-3.0 GNU Public License 3.0
  */
 class Frontend extends BaseFrontend
